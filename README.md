@@ -1,26 +1,52 @@
 ##Amine$h👋
-<h1 align="left" id="macropower-title">:wave: Hello there! I'm Jacob Colvin</h1>
-<h3 align="left">I do SW/SR/Platform/DevOps Engineering things</h3>
+<h1 align="center">👋 مرحباً، أنا أمين عاشور - Amine$h</h1>
 
-<p align="left">
-  <a href="https://github.com/MacroPower/MacroPower">
-    <img src="https://komarev.com/ghpvc/?username=macropower" alt="page views" />
-  </a>
-  <a href="https://jacobcolvin.com">
-    <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fjacobcolvin.com">
-  </a>
-  <a href="https://stackoverflow.com/users/4868262">
-    <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/4868262?color=orange&label=reputation&logo=stackoverflow">
-  </a>
-  <a href="https://www.youtube.com/channel/UCZeubjnoztTC_RP_c4YOuYw">
-    <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCZeubjnoztTC_RP_c4YOuYw?style=flat&logo=youtube">
-  </a>
-  <a href="https://github.com/MacroPower?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/MacroPower?style=flat&logo=github">
-  </a>
-  <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
-    <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
-  </a>
+<p align="center">
+  💻 مبرمج متعدد المهارات | أعمل على تطوير الويب، البرمجة الخلفية، وحل المشكلات التقنية. <br>
+  🚀 أستخدم: HTML, CSS, C++, PHP, SQL, Python <br>
+  🎓 حاصل على شهادة: <strong>تقني في البرمجة</strong> <br>
+  📬 البريد الإلكتروني: <a href="mailto:amineachour542@gmail.com">amineachour542@gmail.com</a>
 </p>
 
-<a href="#macropower-title">
+---
+
+### 🧰 المهارات:
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+</p>
+
+---
+
+### 🎓 الشهادات:
+
+- 📜 **شهادة تقني في البرمجة**  
+  *(أضف اسم المؤسسة، سنة التخرج إن أردت)*
+
+---
+
+### 📈 إحصائيات GitHub:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AmineSh&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmineSh&theme=tokyonight" alt="Streak Stats" />
+</p>
+
+---
+
+### 🏅 شارات وتفاعل:
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AmineSh&style=flat&color=blue" alt="عدد زوار البروفايل" />
+  <img src="https://img.shields.io/github/followers/AmineSh?label=متابعين&style=social" alt="عدد المتابعين على GitHub" />
+</p>
+
+---
+
+> ✨ لا تنسَ متابعة حسابي لمشاريع ومساهمات قادمة!
